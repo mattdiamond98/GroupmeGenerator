@@ -4,7 +4,7 @@ You may need to make an account. I paid $10 for a month of Colab Pro, to get a f
 
 Instructions:
 
-1. Unzip GroupmeGenerator.ipynb.
+1. Unzip GroupmeGenerator.ipynb (if zipped).
 
 2. Upload the GroupmeGenerator.ipynb file to Colab (File > Upload notebook...)
 
